@@ -40,7 +40,7 @@ Anything related to `Full Stack Development` or `Data Science`
 
 Feel free to use any of the following domains to contact me. I'm always up for a good chat 😃
 
-<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=rounded-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=rounded-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://medium.com/@hammad.ai" target="_blank"><img src="https://img.shields.io/badge/Medium-%230A0A0A.svg?&style=rounded-square&logo=Medium&logoColor=white" alt="Medium"></a>
 <a href="https://www.youtube.com/@pointersandexceptions" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23FF2B2B.svg?&style=rounded-square&logo=Youtube&logoColor=white" alt="Youtube"></a>
 <a href="mailto:muhammadhammadhassan002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23E6E6E6.svg?&style=rounded-square&logo=Gmail&logoColor=gray" alt="Youtube"></a>
