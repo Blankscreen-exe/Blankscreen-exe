@@ -1,10 +1,10 @@
 <span style="font-family:verdana;letter-spacing: 2px;">
 
-# Hi there <img src=".\doc\gifs\Hi.gif" width="30">
+<img  src="./doc/gifs/banner.gif"
+style="border-radius:10px;"
+alt="banner" />
 
 ## 👦 Who am I?
-
-This is M. Hammad Hassan.
 
 I'm a `Masters` Degree Holder in the field of `Computer Science`. As a professional, I'm a `Full Stack Developer` and a `Data Scientist`.
 
