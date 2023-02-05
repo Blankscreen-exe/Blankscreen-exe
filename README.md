@@ -5,7 +5,7 @@
 style="border-radius:10px;"
 alt="banner" />
 
-
+<div>
 <a href="https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white$fontSize=20" alt="LinkedIn">
 </a>
@@ -18,6 +18,7 @@ alt="banner" />
 <a href="mailto:muhammadhammadhassan002@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23E6E6E6.svg?&style=for-the-badge&logo=Gmail&logoColor=red" alt="Youtube">
 </a>
+</div>
 </div>
 
 ## 👦 Who am I?
