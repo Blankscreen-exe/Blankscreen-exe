@@ -1,3 +1,5 @@
+<span style="font-family:verdana;letter-spacing: 2px;">
+
 # Hi there <img src=".\doc\gifs\Hi.gif" width="30">
 
 ## 👦 Who am I?
@@ -29,18 +31,22 @@ I'm currently working on a **startup** which is aimed at providing educational c
 ## 🌱 I’m currently learning ...
 
 More libraries related to MERN stack. I'm looking to make myself proficient in `Javascript` zone. For now I'm learning how to use `GraphQL` in my next MERN stack based project along with the usage of `Redux`.
+
 ## 👯 I’m looking to collaborate on
 
 Open source projects which are aimed at helping people learn and grow. The kind of projects which are meant to be used for `educational` and `learning` puposes.
-## 🤔 I’m looking for help with
 
-My [WatchLMS](https://github.com/Blankscreen-exe/WatchLMS) project. I intend to make it a large scale solution for teachers around the globe so that everyone can benefit from it.  
-## 💬 You can ask me about
+## 🤔 I’m looking for help with ...
+
+My [WatchLMS](https://github.com/Blankscreen-exe/WatchLMS) project. I intend to make it a large scale solution for teachers around the globe so that everyone can benefit from it. I'll setup a basic project and guidelines for everyone to have a better understanding
+
+## 💬 You can ask me about ...
 
 Anything related to `Full Stack Development` or `Data Science`. I teach what I do, so feel free to ask me anything. You can contact me on [Linkedin](https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/)
-## 📫 How to reach me:
+## 📫 How to reach me
 
 Feel free to use any of the following domains to contact me. I'm always up for a good chat 😃
+
 
 <a href="https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=rounded-square&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -56,3 +62,4 @@ Feel free to use any of the following domains to contact me. I'm always up for a
 </a>
 
 
+</span>
