@@ -4,6 +4,20 @@
 <img  src="./doc/gifs/banner.gif"
 style="border-radius:10px;"
 alt="banner" />
+
+
+<a href="https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white$fontSize=20" alt="LinkedIn">
+</a>
+<a href="https://medium.com/@hammad.ai" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%230A0A0A.svg?&style=for-the-badge&logo=Medium&logoColor=white" alt="Medium">
+</a>
+<a href="https://www.youtube.com/@pointersandexceptions" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-%23FF2B2B.svg?&style=for-the-badge&logo=Youtube&logoColor=white" alt="Youtube">
+</a>
+<a href="mailto:muhammadhammadhassan002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23E6E6E6.svg?&style=for-the-badge&logo=Gmail&logoColor=red" alt="Youtube">
+</a>
 </div>
 
 ## 👦 Who am I?
