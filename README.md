@@ -1,8 +1,10 @@
 <span style="font-family:verdana;letter-spacing: 2px;">
 
+<div align='center'>
 <img  src="./doc/gifs/banner.gif"
 style="border-radius:10px;"
 alt="banner" />
+</div>
 
 ## 👦 Who am I?
 
