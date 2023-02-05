@@ -19,6 +19,7 @@ alt="banner" />
     <img src="https://img.shields.io/badge/Email-%23E6E6E6.svg?&style=for-the-badge&logo=Gmail&logoColor=red" alt="Youtube">
 </a>
 </div>
+Feel free to use any of the above domains to contact me 📫. I'm always up for a good chat 😃
 </div>
 
 ## 👦 Who am I?
