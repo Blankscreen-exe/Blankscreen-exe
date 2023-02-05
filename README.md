@@ -2,6 +2,8 @@
 
 ## 👦 Who am I?
 
+This is M. Hammad Hassan.
+
 I'm a `Masters` Degree Holder in the field of `Computer Science`. As a professional, I'm a `Full Stack Developer` and a `Data Scientist`.
 
 I also teach what I do and for that reason I joined **IEEE Computer Society** and conducted several *technical workshops* on different platforms. My audience ranged from school students to university students, teachers (some from my own universtiy and others from public schools/colleges)
@@ -26,23 +28,31 @@ I'm currently working on a **startup** which is aimed at providing educational c
  
 ## 🌱 I’m currently learning ...
 
-More libraries related to MERN stack. I'm looking to make myself proficient in `Javascript` zone
+More libraries related to MERN stack. I'm looking to make myself proficient in `Javascript` zone. For now I'm learning how to use `GraphQL` in my next MERN stack based project along with the usage of `Redux`.
 ## 👯 I’m looking to collaborate on
 
-Open source projects which are aimed at helping people learn and grow
+Open source projects which are aimed at helping people learn and grow. The kind of projects which are meant to be used for `educational` and `learning` puposes.
 ## 🤔 I’m looking for help with
 
 My [WatchLMS](https://github.com/Blankscreen-exe/WatchLMS) project. I intend to make it a large scale solution for teachers around the globe so that everyone can benefit from it.  
 ## 💬 You can ask me about
 
-Anything related to `Full Stack Development` or `Data Science`
+Anything related to `Full Stack Development` or `Data Science`. I teach what I do, so feel free to ask me anything. You can contact me on [Linkedin](https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/)
 ## 📫 How to reach me:
 
 Feel free to use any of the following domains to contact me. I'm always up for a good chat 😃
 
-<a href="https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=rounded-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://medium.com/@hammad.ai" target="_blank"><img src="https://img.shields.io/badge/Medium-%230A0A0A.svg?&style=rounded-square&logo=Medium&logoColor=white" alt="Medium"></a>
-<a href="https://www.youtube.com/@pointersandexceptions" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23FF2B2B.svg?&style=rounded-square&logo=Youtube&logoColor=white" alt="Youtube"></a>
-<a href="mailto:muhammadhammadhassan002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23E6E6E6.svg?&style=rounded-square&logo=Gmail&logoColor=gray" alt="Youtube"></a>
+<a href="https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=rounded-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://medium.com/@hammad.ai" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%230A0A0A.svg?&style=rounded-square&logo=Medium&logoColor=white" alt="Medium">
+</a>
+<a href="https://www.youtube.com/@pointersandexceptions" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-%23FF2B2B.svg?&style=rounded-square&logo=Youtube&logoColor=white" alt="Youtube">
+</a>
+<a href="mailto:muhammadhammadhassan002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23E6E6E6.svg?&style=rounded-square&logo=Gmail&logoColor=red" alt="Youtube">
+</a>
 
 
