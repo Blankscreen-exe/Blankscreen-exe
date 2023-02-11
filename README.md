@@ -62,5 +62,8 @@ My [WatchLMS](https://github.com/Blankscreen-exe/WatchLMS) project. I intend to 
 
 Anything related to `Full Stack Development` or `Data Science`. I teach what I do, so feel free to ask me anything. You can contact me on [Linkedin](https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/)
 
-
+<p align="center">
+  <img  src="./doc/gifs/grid-snake.svg"
+    alt="snake gif" />
+</p>
 </span>
