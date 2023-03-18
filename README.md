@@ -47,7 +47,7 @@ I'm currently working on a **startup** which is aimed at providing educational c
 <td><img  alt="React.js"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
 <td><img  alt="MySQL"  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></td>
 <td><img  alt="Numpy"  src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></td>
-<td><img  alt="Docker"  src="https://img.shields.io/badge/Docker-blue.svg?style=for-the-badge&logo=docker"></td>
+<td><img  alt="Docker"  src="https://img.shields.io/badge/Docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white"></td>
 </tr>
 <tr>
 <td><img  alt="JavaScript"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></td>
