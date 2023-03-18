@@ -59,7 +59,7 @@ I'm currently working on a **startup** which is aimed at providing educational c
 </tr>
 <tr>
 <td><img  alt="Node.js"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></td>
-<td><img  alt="Flask"  src="https://img.shields.io/badge/flask-%2307581D.svg?style=for-the-badge&logo=flask&logoColor=white"></td>
+<td><img  alt="Django Rest Framework"  src="https://img.shields.io/badge/DRF-%23a30000?style=for-the-badge&logo=django&logoColor=white"></td>
 <td><img  alt="React Router"  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></td>
 <td><img  alt="Firebase"  src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></td>
 <td><img  alt="Scikit Learn"  src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></td>
@@ -67,7 +67,7 @@ I'm currently working on a **startup** which is aimed at providing educational c
 </tr>
 <tr>
 <td><img  alt="TypeScript"  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></td>
-<td><img  alt="FastAPI"  src="https://img.shields.io/badge/FastAPI-%232AB199?style=for-the-badge&logo=fastapi&logoColor=white"></td>
+<td><img  alt="Flask"  src="https://img.shields.io/badge/flask-%2307581D.svg?style=for-the-badge&logo=flask&logoColor=white"></td>
 <td><img  alt="SASS"  src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></td>
 <td><img  alt="MSSQL"  src="https://img.shields.io/badge/MSSQL-blue.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></td>
 <td><img  alt="PowerBI"  src="https://img.shields.io/badge/PowerBI-%234E7CFC.svg?style=for-the-badge&logo=power-bi"></td>
@@ -75,7 +75,7 @@ I'm currently working on a **startup** which is aimed at providing educational c
 </tr>
 <tr>
 <td><img  alt="JAVA"  src="https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></td>
-<td><img  alt="RESTful API"  src="https://img.shields.io/badge/RESTfulAPI-%234775f2.svg?style=for-the-badge&logo=restapi"></td>
+<td><img  alt="FastAPI"  src="https://img.shields.io/badge/FastAPI-%232AB199?style=for-the-badge&logo=fastapi&logoColor=white"></td>
 <td><img  alt="Tailwind CSS"  src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></td>
 <td><img  alt="SQLite"  src="https://img.shields.io/badge/SQLite-gray.svg?style=for-the-badge&logo=SQLite&logoColor=white"></td>
 <td></td>
@@ -83,7 +83,7 @@ I'm currently working on a **startup** which is aimed at providing educational c
 </tr>
 <tr>
 <td><img  alt="HTML5"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></td>
-<td></td>
+<td><img  alt="RESTful API"  src="https://img.shields.io/badge/RESTfulAPI-%234775f2.svg?style=for-the-badge&logo=restapi"></td>
 <td><img  alt="Redux"  src="https://img.shields.io/badge/Redux-%235D21AB.svg?style=for-the-badge&logo=redux"></td>
 <td></td>
 <td></td>
