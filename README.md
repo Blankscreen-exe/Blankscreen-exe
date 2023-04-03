@@ -99,23 +99,19 @@ I'm currently working on a **startup** which is aimed at providing educational c
 </tr>
 </table>
 
-## 🔭 I’m currently working on ...
+## 🔭 I’m currently working on
 
 [WatchLMS](https://github.com/Blankscreen-exe/WatchLMS) is my new largescale project which is an LMS for individual teachers or small school organizations. It is intended to be an opensource project and free to use for everyone.
  
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently learning
 
-More libraries related to MERN stack. I'm looking to make myself proficient in `Javascript` zone. For now I'm learning how to use `GraphQL` in my next MERN stack based project along with the usage of `Redux`.
+More libraries related to MERN stack. I'm looking to make myself proficient in `JAVA`. For now I'm learning how to use `SpringBoot` framework.
 
 ## 👯 I’m looking to collaborate on
 
-Open source projects which are aimed at helping people learn and grow. The kind of projects which are meant to be used for `educational` and `learning` puposes.
+Open source projects which are aimed at helping people learn and grow. The kind of projects which are meant to be used for `educational` and `learning` purposes.
 
-## 🤔 I’m looking for help with ...
-
-My [WatchLMS](https://github.com/Blankscreen-exe/WatchLMS) project. I intend to make it a large scale solution for teachers around the globe so that everyone can benefit from it. I'll setup a basic project and guidelines for everyone to have a better understanding
-
-## 💬 You can ask me about ...
+## 💬 You can ask me about
 
 Anything related to `Full Stack Development` or `Data Science`. I teach what I do, so feel free to ask me anything. You can contact me on [Linkedin](https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/)
 
