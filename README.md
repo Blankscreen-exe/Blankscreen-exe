@@ -15,7 +15,7 @@ alt="banner" />
 </a>
 
 <a href="https://www.reddit.com/u/blankscreenEXE?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-%aa00000A.svg?&style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+    <img src="https://img.shields.io/badge/Reddit-%ff0a0a.svg?&style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
 </a>
 
 </div>
