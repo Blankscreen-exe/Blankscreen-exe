@@ -9,15 +9,15 @@ alt="banner" />
 <a href="https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white$fontSize=20" alt="LinkedIn">
 </a>
+
 <a href="https://medium.com/@hammad.ai" target="_blank">
     <img src="https://img.shields.io/badge/Medium-%230A0A0A.svg?&style=for-the-badge&logo=Medium&logoColor=white" alt="Medium">
 </a>
-<a href="https://www.youtube.com/@pointersandexceptions" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-%23FF2B2B.svg?&style=for-the-badge&logo=Youtube&logoColor=white" alt="Youtube">
+
+<a href="https://www.reddit.com/u/blankscreenEXE?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-%aa00000A.svg?&style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
 </a>
-<a href="mailto:muhammadhammadhassan002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23E6E6E6.svg?&style=for-the-badge&logo=Gmail&logoColor=red" alt="Youtube">
-</a>
+
 </div>
 Feel free to use any of the above domains to contact me 📫. I'm always up for a good chat 😃
 </div>
@@ -105,7 +105,7 @@ I'm currently working on a **startup** which is aimed at providing educational c
  
 ## 🌱 I’m currently learning
 
-More libraries related to MERN stack. I'm looking to make myself proficient in `JAVA`. For now I'm learning how to use `SpringBoot` framework.
+I'm looking to make myself proficient in `JAVA`. For now I'm learning how to use `SpringBoot` framework.
 
 ## 👯 I’m looking to collaborate on
 
