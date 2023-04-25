@@ -14,8 +14,8 @@ alt="banner" />
     <img src="https://img.shields.io/badge/Medium-%230A0A0A.svg?&style=for-the-badge&logo=Medium&logoColor=white" alt="Medium">
 </a>
 
-<a href="https://www.reddit.com/u/blankscreenEXE?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-%ff0a0a.svg?&style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+<a href="https://www.reddit.com/u/blankscreenEXE" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
 </a>
 
 </div>
