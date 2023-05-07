@@ -6,18 +6,22 @@ style="border-radius:10px;"
 alt="banner" />
 
 <div>
-<a href="https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/" target="_blank">
+<a href="https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/" target="_blank" title="muhammad-hammad-hassan-cs101">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white$fontSize=20" alt="LinkedIn">
 </a>
 
-<!-- <a href="https://medium.com/@hammad.ai" target="_blank">
+<!-- <a href="https://medium.com/@hammad.ai" target="_blank" title="@hammad.ai">
     <img src="https://img.shields.io/badge/Medium-%230A0A0A.svg?&style=for-the-badge&logo=Medium&logoColor=white" alt="Medium">
 </a> -->
 
-<a href="https://www.reddit.com/u/blankscreenEXE" target="_blank">
+<a href="https://www.reddit.com/u/blankscreenEXE" target="_blank" title="blankscreenEXE">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
 </a>
 
+<a href="https://discord.com/users/@Beelze.beta#5266" target="_blank" title="@Beelze.beta#5266">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
+</a>
+    
 </div>
 Feel free to use any of the above domains to contact me 📫. I'm always up for a good chat 😃
 </div>
