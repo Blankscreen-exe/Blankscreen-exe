@@ -104,8 +104,8 @@ I'm currently working on a **startup** which is aimed at providing educational c
 </table>
 
 ## 🔭 I’m currently working on
-
-[WatchLMS](https://github.com/Blankscreen-exe/WatchLMS) is my new largescale project which is an LMS for individual teachers or small school organizations. It is intended to be an opensource project and free to use for everyone.
+[AiXplora](https://github.com/grumpyp/aixplora) which is a LLM based fullstack application which utilizes `langchain` framework.
+I'm also working on several small scale hobby projects, apart from my job, which I also write about on [medium.com](https://medium.com/@hammad.ai). They are all on my repo. Why don't you heck them out?
  
 ## 🌱 I’m currently learning
 
@@ -118,6 +118,8 @@ Open source projects which are aimed at helping people learn and grow. The kind 
 ## 💬 You can ask me about
 
 Anything related to `Full Stack Development` or `Data Science`. I teach what I do, so feel free to ask me anything. You can contact me on [Linkedin](https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/)
+
+I also maintain a blog on medium.com. You can see my articles [here](https://github.com/grumpyp/aixplora)
 
 <p align="center">
   <img  src="./doc/gifs/grid-snake.svg"
