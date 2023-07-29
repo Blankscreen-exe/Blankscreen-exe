@@ -10,9 +10,9 @@ alt="banner" />
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white$fontSize=20" alt="LinkedIn">
 </a>
 
-<!-- <a href="https://medium.com/@hammad.ai" target="_blank" title="@hammad.ai">
+<a href="https://medium.com/@hammad.ai" target="_blank" title="@hammad.ai">
     <img src="https://img.shields.io/badge/Medium-%230A0A0A.svg?&style=for-the-badge&logo=Medium&logoColor=white" alt="Medium">
-</a> -->
+</a>
 
 <a href="https://www.reddit.com/u/blankscreenEXE" target="_blank" title="blankscreenEXE">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
