@@ -109,7 +109,7 @@ I'm also working on several small scale hobby projects, apart from my job, which
  
 ## 🌱 I’m currently learning
 
-I'm looking to make myself proficient in `JAVA`. For now I'm learning how to use `SpringBoot` framework.
+Improving my `Django` and `Django Rest Framework` skills by exploring several third-party packages.
 
 ## 👯 I’m looking to collaborate on
 
