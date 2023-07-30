@@ -56,10 +56,11 @@ I'm currently working on a **startup** which is aimed at providing educational c
 <tr>
 <td><img  alt="JavaScript"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></td>
 <td><img  alt="Django"  src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></td>
-<td><img  alt="React native"  src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
+<td><img  alt="Redux"  src="https://img.shields.io/badge/Redux-%235D21AB.svg?style=for-the-badge&logo=redux"></td>
 <td><img  alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></td>
 <td><img  alt="Pandas"  src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></td>
 <td><img  alt="Apache Kafka"  src="https://img.shields.io/badge/ApacheKafka-%234183C4.svg?style=for-the-badge&logo=apache-kafka"></td>
+
 </tr>
 <tr>
 <td><img  alt="Node.js"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></td>
@@ -88,9 +89,9 @@ I'm currently working on a **startup** which is aimed at providing educational c
 <tr>
 <td><img  alt="HTML5"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></td>
 <td><img  alt="RESTful API"  src="https://img.shields.io/badge/RESTfulAPI-%234775f2.svg?style=for-the-badge&logo=restapi"></td>
-<td><img  alt="Redux"  src="https://img.shields.io/badge/Redux-%235D21AB.svg?style=for-the-badge&logo=redux"></td>
 <td></td>
 <td></td>
+<td><img  alt="Langchain"  src="https://img.shields.io/badge/LangChain-%231572B6.svg?style=for-the-badge&logo=LangChain&logoColor=white"></td>
 <td><img  alt="Figma"  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></td>
 </tr>
 <tr>
@@ -102,6 +103,9 @@ I'm currently working on a **startup** which is aimed at providing educational c
 <td></td>
 </tr>
 </table>
+
+<!-- --------------- Extra badges --------------- -->
+<!--<td><img  alt="React native"  src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>-->
 
 ## 🔭 I’m currently working on
 
