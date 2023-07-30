@@ -23,10 +23,7 @@ alt="banner" />
 </a>
     
 </div>
-<span style="background-color: #eeeeee;
-    padding: 5px 20px;
-    border-right: 4px solid gray;
-    border-left: 4px solid gray;">Feel free to use any of the above domains to contact me 📫. I'm always up for a good chat 😃 </span>
+<span style="background-color:#eeeeee;padding: 5px 20px;border-right: 4px solid gray;border-left: 4px solid gray;">Feel free to use any of the above domains to contact me 📫. I'm always up for a good chat 😃</span>
 </div>
 
 ## 👦 Who am I?
@@ -85,7 +82,7 @@ I'm currently working on a **startup** which is aimed at providing educational c
 <td><img  alt="FastAPI"  src="https://img.shields.io/badge/FastAPI-%232AB199?style=for-the-badge&logo=fastapi&logoColor=white"></td>
 <td><img  alt="Tailwind CSS"  src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></td>
 <td><img  alt="SQLite"  src="https://img.shields.io/badge/SQLite-gray.svg?style=for-the-badge&logo=SQLite&logoColor=white"></td>
-<td></td>
+<td><img  alt="TensorFlow"  src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></td>
 <td><img  alt="Illustrator"  src="https://img.shields.io/badge/Illustrator-%23402A09.svg?style=for-the-badge&logo=adobeillustrator&logoColor=%23E9A641"></td>
 </tr>
 <tr>
