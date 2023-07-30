@@ -23,7 +23,10 @@ alt="banner" />
 </a>
     
 </div>
-Feel free to use any of the above domains to contact me 📫. I'm always up for a good chat 😃
+<span style="background-color: #eeeeee;
+    padding: 5px 20px;
+    border-right: 4px solid gray;
+    border-left: 4px solid gray;">Feel free to use any of the above domains to contact me 📫. I'm always up for a good chat 😃 </span>
 </div>
 
 ## 👦 Who am I?
@@ -104,8 +107,10 @@ I'm currently working on a **startup** which is aimed at providing educational c
 </table>
 
 ## 🔭 I’m currently working on
+
 [AiXplora](https://github.com/grumpyp/aixplora) which is a LLM based fullstack application which utilizes `langchain` framework.
-I'm also working on several small scale hobby projects, apart from my job, which I also write about on [medium.com](https://medium.com/@hammad.ai). They are all on my repo. Why don't you heck them out?
+
+I'm also working on several small scale hobby projects, apart from my job, which I also write about on [medium.com](https://medium.com/@hammad.ai). They are all on my repo. Why don't you check them out?
  
 ## 🌱 I’m currently learning
 
