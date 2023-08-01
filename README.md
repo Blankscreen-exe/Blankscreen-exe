@@ -124,7 +124,7 @@ Open source projects which are aimed at helping people learn and grow. The kind 
 
 ## 📣 You can ask me about
 
-Anything related to `Software Development`, `Data Science`, `Machine Learning`, `Artificial Intelligence` or `Deep Learning`. I teach what I do, so feel free to ask me anything. You can contact me on [Linkedin](https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/)
+Anything related to `Software Development`, `Data Science`, `Machine Learning`, `Artificial Intelligence` or `Deep Learning`. I teach what I do, so feel free to ask me anything. You can contact me on [![Linkedin.com](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white$fontSize=20)](https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/)
 
 ## 📜 About my Medium Blog
 I maintain a blog which contains all kinds of useful information about `Machine Learning`, `Data Science`, `Artificial Intelligence`, `Software Development`, `Projects` and more. Here are my goals for all of this:
