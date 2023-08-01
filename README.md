@@ -79,7 +79,7 @@ I'm currently working on a **startup** which is aimed at providing educational c
 <td><img  alt="Photoshop"  src="https://img.shields.io/badge/photoshop-%23093540.svg?style=for-the-badge&logo=adobephotoshop&logoColor=#3ac5ea"></td>
 </tr>
 <tr>
-<td><img  alt="JAVA"  src="https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></td>
+<td><img  alt="JAVA"  src="https://img.shields.io/badge/&#127861;-JAVA-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></td>
 <td><img  alt="FastAPI"  src="https://img.shields.io/badge/FastAPI-%232AB199?style=for-the-badge&logo=fastapi&logoColor=white"></td>
 <td><img  alt="Tailwind CSS"  src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></td>
 <td><img  alt="SQLite"  src="https://img.shields.io/badge/SQLite-gray.svg?style=for-the-badge&logo=SQLite&logoColor=white"></td>
@@ -88,10 +88,10 @@ I'm currently working on a **startup** which is aimed at providing educational c
 </tr>
 <tr>
 <td><img  alt="HTML5"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></td>
-<td><img  alt="RESTful API"  src="https://img.shields.io/badge/RESTfulAPI-%234775f2.svg?style=for-the-badge&logo=restapi"></td>
+<td><img  alt="RESTful API"  src="https://img.shields.io/badge/&#9881;-RESTfulAPI-%234775f2.svg?style=for-the-badge&logo=restapi"></td>
 <td></td>
 <td></td>
-<td><img  alt="Langchain"  src="https://img.shields.io/badge/LangChain-%231572B6.svg?style=for-the-badge&logo=LangChain&logoColor=white"></td>
+<td><img  alt="Langchain"  src="https://img.shields.io/badge/&#129436;&#128279;-LangChain-%23e4e4e4.svg?style=for-the-badge&logo=LangChain&logoColor=white"></td>
 <td><img  alt="Figma"  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ I'm currently working on a **startup** which is aimed at providing educational c
 
 ## 🔭 I’m currently working on
 
-[AiXplora](https://github.com/grumpyp/aixplora) which is a LLM based fullstack application which utilizes `langchain` framework.
+[AiXplora](https://github.com/grumpyp/aixplora) which is a LLM based fullstack application which utilizes [![Langchain](https://img.shields.io/badge/&#129436;&#128279;-LangChain-%23e4e4e4.svg?style=flat&logo=LangChain&logoColor=white)](https://python.langchain.com/docs/get_started/introduction.html) framework.
 
 I'm also working on several small scale hobby projects, apart from my job, which I also write about on [medium.com](https://medium.com/@hammad.ai). They are all on my repo. Why don't you check them out?
  
