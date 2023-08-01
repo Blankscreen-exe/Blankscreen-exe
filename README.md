@@ -128,7 +128,7 @@ Anything related to `Software Development`, `Data Science`, `Machine Learning`, 
 
 ## 📜 About my Medium Blog
 I maintain a blog which contains all kinds of useful information about `Machine Learning`, `Data Science`, `Artificial Intelligence`, `Software Development`, `Projects` and more. Here are my goals for all of this:
-- To explain a **difficult concepts** that I personally came across on my AI/ML/DS/DL journey in a way that is easy for everyone to understand.
+- To explain **difficult concepts** that I personally came across on my AI/ML/DS/DL journey in a way that is easy for everyone to understand.
 - To bring some of my **crazy ideas** to life using my `software development` expertise and write a **tutorial** on it, so that everyone can partake in my victory.
 - Lastly, to write about **research related topics** in a concise way which is easier to read and understand. I have focused myself on topics strictly related to AI/ML/DS/DL since that is the field of research that I personally pursue.
 
