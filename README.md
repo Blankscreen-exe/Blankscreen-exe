@@ -26,7 +26,7 @@ alt="banner" />
 <span style="background-color:#eeeeee;padding: 5px 20px;border-right: 4px solid gray;border-left: 4px solid gray;">Feel free to use any of the above domains to contact me 📫. I'm always up for a good chat 😃</span>
 </div>
 
-## 👦 Who am I?
+## 👋 Who am I?
 
 I'm a `Masters` Degree Holder in the field of `Computer Science`. As a professional, I'm a `Full Stack Developer` and a `Data Scientist`.
 
@@ -107,25 +107,32 @@ I'm currently working on a **startup** which is aimed at providing educational c
 <!-- --------------- Extra badges --------------- -->
 <!--<td><img  alt="React native"  src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>-->
 
-## 🔭 I’m currently working on
+## ⚡️ I’m currently working on
 
 [AiXplora](https://github.com/grumpyp/aixplora) which is a LLM based fullstack application which utilizes [![Langchain](https://img.shields.io/badge/&#129436;&#128279;-LangChain-%23e4e4e4.svg?style=flat&logo=LangChain&logoColor=white)](https://python.langchain.com/docs/get_started/introduction.html) framework.
 
-I'm also working on several small scale hobby projects, apart from my job, which I also write about on [medium.com](https://medium.com/@hammad.ai). They are all on my repo. Why don't you check them out?
+I'm also working on several small scale hobby projects, apart from my job, which I also write about on 
+[![Medium.com](https://img.shields.io/badge/Medium.com-%230A0A0A.svg?&style=flat&logo=Medium&logoColor=white)](https://medium.com/@hammad.ai). They are all on my repo. Why don't you check them out?
  
 ## 🌱 I’m currently learning
 
 Improving my `Django` and `Django Rest Framework` skills by exploring several third-party packages.
 
-## 👯 I’m looking to collaborate on
+## 💡 I’m looking to collaborate on
 
 Open source projects which are aimed at helping people learn and grow. The kind of projects which are meant to be used for `educational` and `learning` purposes.
 
-## 💬 You can ask me about
+## 📣 You can ask me about
 
-Anything related to `Full Stack Development` or `Data Science`. I teach what I do, so feel free to ask me anything. You can contact me on [Linkedin](https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/)
+Anything related to `Software Development`, `Data Science`, `Machine Learning`, `Artificial Intelligence` or `Deep Learning`. I teach what I do, so feel free to ask me anything. You can contact me on [Linkedin](https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/)
 
-I also maintain a blog on medium.com. You can see my articles [here](https://github.com/grumpyp/aixplora)
+## 📜 About my Medium Blog
+I maintain a blog which contains all kinds of useful information about `Machine Learning`, `Data Science`, `Artificial Intelligence`, `Software Development`, `Projects` and more. Here are my goals for all of this:
+- To explain a **difficult concepts** that I personally came across on my AI/ML/DS/DL journey in a way that is easy for everyone to understand.
+- To bring some of my **crazy ideas** to life using my `software development` expertise and write a **tutorial** on it, so that everyone can partake in my victory.
+- Lastly, to write about **research related topics** in a concise way which is easier to read and understand. I have focused myself on topics strictly related to AI/ML/DS/DL since that is the field of research that I personally pursue.
+
+Please feel free to have a look and if you find something useful in there, just leave a review here [![Medium.com](https://img.shields.io/badge/Medium.com-%230A0A0A.svg?&style=flat&logo=Medium&logoColor=white)](https://medium.com/@hammad.ai)
 
 <p align="center">
   <img  src="./doc/gifs/grid-snake.svg"
