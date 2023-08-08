@@ -71,7 +71,7 @@ I'm currently working on a **startup** which is aimed at providing educational c
 <td><img  alt="Wordpress"  src="https://img.shields.io/badge/Wordpress-%23000000.svg?style=for-the-badge&logo=wordpress&logoColor=white"></td>
 </tr>
 <tr>
-<td><img  alt="TypeScript"  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></td>
+<td><img  alt="PHP"  src="https://img.shields.io/badge/php-%238993be.svg?style=for-the-badge&logo=php&logoColor=%23232531"></td>
 <td><img  alt="Flask"  src="https://img.shields.io/badge/flask-%2307581D.svg?style=for-the-badge&logo=flask&logoColor=white"></td>
 <td><img  alt="SASS"  src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></td>
 <td><img  alt="MSSQL"  src="https://img.shields.io/badge/MSSQL-blue.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></td>
