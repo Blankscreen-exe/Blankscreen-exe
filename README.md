@@ -52,8 +52,8 @@ I'm currently working on a **startup** which is aimed at providing educational c
         </a>
     </td>
     <td>
-        <a href="https://expressjs.com/" target="_blank" title="Go To Official Page">
-            <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+        <a href="https://www.djangoproject.com/" target="_blank" title="Go To Official Page">
+            <img alt="Django" src="https://img.shields.io/badge/Django-%230C4B33?style=for-the-badge&logo=django&logoColor=white">
         </a>
     </td>
     <td>
@@ -184,8 +184,16 @@ I'm currently working on a **startup** which is aimed at providing educational c
             <img alt="RESTful API" src="https://img.shields.io/badge/&#9881;-RESTfulAPI-%234775f2.svg?style=for-the-badge&logo=restapi">
         </a>
     </td>
-    <td></td>
-    <td></td>
+    <td>
+        <a href="" target="_blank" title="Go To Official Page">
+            <img alt="Redux" src="https://img.shields.io/badge/redux-%23764abc.svg?style=for-the-badge&logo=redux&logoColor=white">
+        </a>
+    </td>
+    <td>
+        <a href="https://www.mongodb.com/" target="_blank" title="Go To Official Page">
+            <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2342494f.svg?style=for-the-badge&logo=mongodb&logoColor=%2300ed64">
+        </a>
+    </td>
     <td>
         <a href="https://langchain.org/" target="_blank" title="Go To Official Page">
             <img alt="Langchain" src="https://img.shields.io/badge/&#129436;&#128279;-LangChain-%23e4e4e4.svg?style=for-the-badge&logo=LangChain&logoColor=white">
@@ -216,8 +224,8 @@ I'm currently working on a **startup** which is aimed at providing educational c
 <tr>
     <td></td>
     <td>
-        <a href="https://laravel.com/" target="_blank" title="Go To Official Page">
-            <img alt="Laravel" src="https://img.shields.io/badge/Django-%230C4B33?style=for-the-badge&logo=django&logoColor=white">
+        <a href="https://expressjs.com/" target="_blank" title="Go To Official Page">
+            <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
         </a>
     </td>
     <td></td>
