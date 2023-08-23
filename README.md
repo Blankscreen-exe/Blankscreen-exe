@@ -231,7 +231,11 @@ I'm currently working on a **startup** which is aimed at providing educational c
             <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23130654.svg?style=for-the-badge&logo=pandas&logoColor=white">
         </a>
     </td>
-    <td></td>
+    <td>
+        <a href="https://www.linux.org/" target="_blank" title="Go To Official Page">
+            <img alt="Linux" src="https://img.shields.io/badge/linux-%23185886.svg?style=for-the-badge&logo=linux&logoColor=white">
+        </a>
+    </td>
 </tr>
 <tr>
     <td>
