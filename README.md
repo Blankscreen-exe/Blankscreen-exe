@@ -185,7 +185,7 @@ I'm currently working on a **startup** which is aimed at providing educational c
         </a>
     </td>
     <td>
-        <a href="" target="_blank" title="Go To Official Page">
+        <a href="https://redux.js.org/" target="_blank" title="Go To Official Page">
             <img alt="Redux" src="https://img.shields.io/badge/redux-%23764abc.svg?style=for-the-badge&logo=redux&logoColor=white">
         </a>
     </td>
