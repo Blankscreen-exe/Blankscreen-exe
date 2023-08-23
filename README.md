@@ -216,13 +216,29 @@ I'm currently working on a **startup** which is aimed at providing educational c
             <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23fb503b.svg?style=for-the-badge&logo=laravel&logoColor=white">
         </a>
     </td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>
+        <a href="https://getbootstrap.com/" target="_blank" title="Go To Official Page">
+            <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%239461fb.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+        </a>
+    </td>
+    <td>
+        <a href="https://www.postgresql.org/" target="_blank" title="Go To Official Page">
+            <img alt="Postgres" src="https://img.shields.io/badge/postgresql-%23699eca.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+        </a>
+    </td>
+    <td>
+        <a href="https://pandas.pydata.org/" target="_blank" title="Go To Official Page">
+            <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23130654.svg?style=for-the-badge&logo=pandas&logoColor=white">
+        </a>
+    </td>
     <td></td>
 </tr>
 <tr>
-    <td></td>
+    <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Go To Official Page">
+            <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23ffea00.svg?style=for-the-badge&logo=javascript&logoColor=black">
+        </a>
+    </td>
     <td>
         <a href="https://expressjs.com/" target="_blank" title="Go To Official Page">
             <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
@@ -230,7 +246,7 @@ I'm currently working on a **startup** which is aimed at providing educational c
     </td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>... and other ML technologies</td>
     <td></td>
 </tr>
 </table>
