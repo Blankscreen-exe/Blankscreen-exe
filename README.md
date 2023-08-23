@@ -213,6 +213,18 @@ I'm currently working on a **startup** which is aimed at providing educational c
     <td></td>
     <td></td>
 </tr>
+<tr>
+    <td></td>
+    <td>
+        <a href="https://laravel.com/" target="_blank" title="Go To Official Page">
+            <img alt="Laravel" src="https://img.shields.io/badge/Django-%230C4B33?style=for-the-badge&logo=django&logoColor=white">
+        </a>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
 </table>
 
 <!-- --------------- Extra badges --------------- -->
@@ -220,14 +232,14 @@ I'm currently working on a **startup** which is aimed at providing educational c
 
 ## ⚡️ I’m currently working on
 
-[AiXplora](https://github.com/grumpyp/aixplora) which is a LLM based fullstack application which utilizes [![Langchain](https://img.shields.io/badge/&#129436;&#128279;-LangChain-%23e4e4e4.svg?style=flat&logo=LangChain&logoColor=white)](https://python.langchain.com/docs/get_started/introduction.html) framework.
+Improving my [![Django](https://img.shields.io/badge/Django-%230C4B33?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/) and [![Django Rest Framework](https://img.shields.io/badge/Django_Rest_Framework-%23a30000?style=flat&logo=django&logoColor=white)](https://www.django-rest-framework.org/) skills by exploring several third-party packages.
 
 I'm also working on several small scale hobby projects, apart from my job, which I also write about on 
 [![Medium.com](https://img.shields.io/badge/Medium.com-%230A0A0A.svg?&style=flat&logo=Medium&logoColor=white)](https://medium.com/@hammad.ai). They are all on my repo. Why don't you check them out?
  
 ## 🌱 I’m currently learning
 
-Improving my `Django` and `Django Rest Framework` skills by exploring several third-party packages.
+Learning [![Laravel](https://img.shields.io/badge/laravel-%23fb503b.svg?style=flat&logo=laravel&logoColor=white)](https://laravel.com/) which is a [![PHP](https://img.shields.io/badge/PHP-%23787CB5?style=flat&logo=php&logoColor=white)](https://www.php.net/) framework. I'm already developing features and contributing to ongoing projects.
 
 ## 💡 I’m looking to collaborate on
 
