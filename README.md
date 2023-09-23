@@ -14,9 +14,9 @@ alt="banner" />
     <img src="https://img.shields.io/badge/Medium-%230A0A0A.svg?&style=for-the-badge&logo=Medium&logoColor=white" alt="Medium">
 </a>
 
-<a href="https://www.reddit.com/u/blankscreenEXE" target="_blank" title="blankscreenEXE">
+<!--<a href="https://www.reddit.com/u/blankscreenEXE" target="_blank" title="blankscreenEXE">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
-</a>
+</a>-->
 
 <a href="https://discord.com/users/@Beelze.beta#5266" target="_blank" title="@Beelze.beta#5266">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
