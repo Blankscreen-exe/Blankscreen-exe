@@ -28,7 +28,7 @@ alt="banner" />
 
 ## 👋 Who am I?
 
-I'm a `Masters` Degree Holder in the field of `Computer Science`. As a professional, I'm a `Full Stack Developer` and a `Data Scientist`.
+I'm a `Gradute` in the field of `Computer Science`. As a professional, I'm a `Full Stack Developer` and a `Data Scientist`.
 
 I also teach what I do and for that reason I joined **IEEE Computer Society** and conducted several *technical workshops* on different platforms. My audience ranged from school students to university students, teachers (some from my own universtiy and others from public schools/colleges)
 
