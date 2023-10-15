@@ -263,7 +263,7 @@ I'm currently working on a **startup** which is aimed at providing educational c
 Improving my [![Django](https://img.shields.io/badge/Django-%230C4B33?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/) and [![Django Rest Framework](https://img.shields.io/badge/Django_Rest_Framework-%23a30000?style=flat&logo=django&logoColor=white)](https://www.django-rest-framework.org/) skills by exploring several third-party packages.
 
 I'm also working on several small scale hobby projects, apart from my job, which I also write about on 
-[![Medium.com](https://img.shields.io/badge/Medium.com-%230A0A0A.svg?&style=flat&logo=Medium&logoColor=white)](https://medium.com/@hammad.ai). They are all on my repo. Why don't you check them out?
+[![Medium.com](https://img.shields.io/badge/Medium.com-%230A0A0A.svg?&style=flat&logo=Medium&logoColor=white)](https://medium.com/@hammad.ai). They are all also on my repo. Why don't you check them out?
  
 ## 🌱 I’m currently learning
 
