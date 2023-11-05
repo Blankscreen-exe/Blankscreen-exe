@@ -195,7 +195,7 @@ I also teach what I do and for that reason I joined **IEEE Computer Society** an
         </a>
     </td>
     <td>
-        <a href="https://langchain.org/" target="_blank" title="Go To Official Page">
+        <a href="https://langchain.com/" target="_blank" title="Go To Official Page">
             <img alt="Langchain" src="https://img.shields.io/badge/&#129436;&#128279;-LangChain-%23e4e4e4.svg?style=for-the-badge&logo=LangChain&logoColor=white">
         </a>
     </td>
