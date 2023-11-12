@@ -28,7 +28,7 @@ alt="banner" />
 
 ## 👋 Who am I?
 
-I'm a `Full Stack Developer` and a `Data Scientist`.
+I'm a `Full Stack Developer` and a `Data Scientist`. I have helped several business owners coming from a variety of backgrounds with their web applications, payment gateways, third-party service integrations, feature development, database management and much more. 
 
 I also teach what I do and for that reason I joined **IEEE Computer Society** and conducted several *technical workshops* on different platforms. My audience ranged from school students to university students, teachers (some from my own universtiy and others from public schools/colleges)
 
