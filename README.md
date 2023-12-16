@@ -249,7 +249,11 @@ I also teach what I do and for that reason I joined **IEEE Computer Society** an
         </a>
     </td>
     <td></td>
-    <td></td>
+    <td>
+        <a href="https://redis.io/" target="_blank" title="Go To Official Page">
+            <img alt="Redis" src="https://img.shields.io/badge/redis-%23dc3d2a.svg?style=for-the-badge&logo=redis&logoColor=%23fff">
+        </a>
+    </td>
     <td>... and other ML technologies</td>
     <td></td>
 </tr>
