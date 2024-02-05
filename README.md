@@ -136,8 +136,8 @@ I also teach what I do and for that reason I joined **IEEE Computer Society** an
         </a>
     </td>
     <td>
-        <a href="https://www.adobe.com/products/photoshop.html" target="_blank" title="Go To Official Page">
-            <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%23093540.svg?style=for-the-badge&logo=adobephotoshop&logoColor=#3ac5ea">
+        <a href="https://www.nginx.com/" target="_blank" title="Go To Official Page">
+            <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=#3ac5ea">
         </a>
     </td>
 </tr>
@@ -168,8 +168,8 @@ I also teach what I do and for that reason I joined **IEEE Computer Society** an
         </a>
     </td>
     <td>
-        <a href="https://www.adobe.com/products/illustrator.html" target="_blank" title="Go To Official Page">
-            <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-%23402A09.svg?style=for-the-badge&logo=adobeillustrator&logoColor=%23E9A641">
+        <a href="https://restfulapi.net/" target="_blank" title="Go To Official Page">
+            <img alt="RESTful APIs" src="https://img.shields.io/badge/&#9881;-restful_api-%230693e3.svg?style=for-the-badge&logo=java&logoColor=white">
         </a>
     </td>
 </tr>
