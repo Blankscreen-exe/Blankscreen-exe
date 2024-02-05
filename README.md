@@ -169,7 +169,7 @@ I also teach what I do and for that reason I joined **IEEE Computer Society** an
     </td>
     <td>
         <a href="https://restfulapi.net/" target="_blank" title="Go To Official Page">
-            <img alt="RESTful APIs" src="https://img.shields.io/badge/&#9881;-restful_api-%230693e3.svg?style=for-the-badge&logo=java&logoColor=white">
+            <img alt="RESTful APIs" src="https://img.shields.io/badge/&#9881;-restful_api-%230693e3.svg?style=for-the-badge&logo=rest&logoColor=white">
         </a>
     </td>
 </tr>
