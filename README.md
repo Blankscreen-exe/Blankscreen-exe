@@ -180,8 +180,8 @@ I also teach what I do and for that reason I joined **IEEE Computer Society** an
         </a>
     </td>
     <td>
-        <a href="https://restfulapi.net/" target="_blank" title="Go To Official Page">
-            <img alt="RESTful API" src="https://img.shields.io/badge/&#9881;-RESTfulAPI-%234775f2.svg?style=for-the-badge&logo=restapi">
+        <a href="https://www.odoo.com/" target="_blank" title="Go To Official Page">
+            <img alt="ODOO" src="https://img.shields.io/badge/ODOO-%23714b67.svg?style=for-the-badge&logo=odoo">
         </a>
     </td>
     <td>
