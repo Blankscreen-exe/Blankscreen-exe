@@ -18,7 +18,7 @@ alt="banner" />
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
 </a>-->
 
-<a href="https://discord.com/users/@Beelze.beta#5266" target="_blank" title="@Beelze.beta#5266">
+<a href="https://discordapp.com/users/blankscreen.exe" target="_blank" title="blankscreen.exe">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
 </a>
     
