@@ -21,7 +21,12 @@ alt="banner" />
 <a href="https://discordapp.com/users/blankscreen.exe" target="_blank" title="blankscreen.exe">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
 </a>
-    
+
+<a href="https://hihello.me/p/c9724f05-f569-4cf7-a896-f53366a3f8dc" target="_blank" title="blankscreen.exe">
+    <img src="https://img.shields.io/badge/&#128199;-Business_Card-%23207d26.svg?&style=for-the-badge&logo=business&logoColor=white" alt="E-business Card">
+</a>
+
+
 </div>
 <span style="background-color:#eeeeee;padding: 5px 20px;border-right: 4px solid gray;border-left: 4px solid gray;">Feel free to use any of the above domains to contact me 📫. I'm always up for a good chat 😃</span>
 </div>
