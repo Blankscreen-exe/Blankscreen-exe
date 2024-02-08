@@ -261,6 +261,18 @@ I also teach what I do and for that reason I joined **IEEE Computer Society** an
         </a>
     </td>
 </tr>
+<tr>
+    <td>
+        <a href="https://soliditylang.org/" target="_blank" title="Go To Official Page">
+            <img alt="Solidity" src="https://img.shields.io/badge/solidity-%23e6e3ec.svg?style=for-the-badge&logo=solidity&logoColor=black">
+        </a>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
 </table>
 
 <!-- --------------- Extra badges --------------- -->
