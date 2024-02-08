@@ -271,7 +271,11 @@ I also teach what I do and for that reason I joined **IEEE Computer Society** an
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>
+        <a href="https://remix-project.org/" target="_blank" title="Go To Official Page">
+            <img alt="Remix" src="https://img.shields.io/badge/Remix_IDE-%23006f9d.svg?style=for-the-badge&logo=remix-ide&logoColor=black">
+        </a>
+    </td>
 </tr>
 </table>
 
