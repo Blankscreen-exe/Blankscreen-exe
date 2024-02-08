@@ -255,7 +255,11 @@ I also teach what I do and for that reason I joined **IEEE Computer Society** an
         </a>
     </td>
     <td>... and other ML technologies</td>
-    <td></td>
+    <td>
+        <a href="https://www.atlassian.com/software/jira" target="_blank" title="Go To Official Page">
+            <img alt="JIRA" src="https://img.shields.io/badge/JIRA-%232f7cff.svg?style=for-the-badge&logo=jira&logoColor=%23fff">
+        </a>
+    </td>
 </tr>
 </table>
 
