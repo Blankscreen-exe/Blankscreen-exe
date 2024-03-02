@@ -259,7 +259,11 @@ I also teach what I do and for that reason I joined **IEEE Computer Society** an
             <img alt="Redis" src="https://img.shields.io/badge/redis-%23dc3d2a.svg?style=for-the-badge&logo=redis&logoColor=%23fff">
         </a>
     </td>
-    <td>... and other ML technologies</td>
+    <td>
+        <a href="https://mlflow.org/" target="_blank" title="Go To Official Page">
+            <img alt="MLflow" src="https://img.shields.io/badge/ML_flow-blue.svg?style=for-the-badge&logo=dataversioncontrol&logoColor=white">
+        </a>
+    </td>
     <td>
         <a href="https://www.atlassian.com/software/jira" target="_blank" title="Go To Official Page">
             <img alt="JIRA" src="https://img.shields.io/badge/JIRA-%232f7cff.svg?style=for-the-badge&logo=jira&logoColor=%23fff">
