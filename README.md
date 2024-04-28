@@ -293,14 +293,14 @@ I also teach what I do and for that reason I joined **IEEE Computer Society** an
 
 ## ⚡️ I’m currently working on
 
-Working on projcts with other developers from around the world and while I'm at it, I am also training and mentoring some juniors to get their feet wet with some quality exercises and prepare them for their first job.
+Working on projects with other developers from around the world and while I'm at it, I am also training and mentoring some juniors to get their feet wet with some quality exercises and prepare them for their first job.
 
 Apart from my job, I also write about my projects and findings on 
 [![Medium.com](https://img.shields.io/badge/Medium.com-%230A0A0A.svg?&style=flat&logo=Medium&logoColor=white)](https://medium.com/@hammad.ai). They are all also on my repo. Why don't you check them out?
  
 ## 🌱 I’m currently learning
 
-Learning [![Laravel](https://img.shields.io/badge/laravel-%23fb503b.svg?style=flat&logo=laravel&logoColor=white)](https://laravel.com/) which is a [![PHP](https://img.shields.io/badge/PHP-%23787CB5?style=flat&logo=php&logoColor=white)](https://www.php.net/) framework. I'm already developing features and contributing to ongoing projects.
+Learning German Language cuz reasons. Bisher kann ich in einem Restaurant Sachen bestellen, Leute begrüßen und mich vorstellen (So far I can order things in a restaurant, greet people and introduce myself).
 
 ## 💡 I’m looking to collaborate on
 
