@@ -293,9 +293,9 @@ I also teach what I do and for that reason I joined **IEEE Computer Society** an
 
 ## ⚡️ I’m currently working on
 
-Improving my [![Django](https://img.shields.io/badge/Django-%230C4B33?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/) and [![Django Rest Framework](https://img.shields.io/badge/Django_Rest_Framework-%23a30000?style=flat&logo=django&logoColor=white)](https://www.django-rest-framework.org/) skills by exploring several third-party packages.
+Working on projcts with other developers from around the world and while I'm at it, I am also training and mentoring some juniors to get their feet wet with some quality exercises and prepare them for their first job.
 
-I'm also working on several small scale hobby projects, apart from my job, which I also write about on 
+Apart from my job, I also write about my projects and findings on 
 [![Medium.com](https://img.shields.io/badge/Medium.com-%230A0A0A.svg?&style=flat&logo=Medium&logoColor=white)](https://medium.com/@hammad.ai). They are all also on my repo. Why don't you check them out?
  
 ## 🌱 I’m currently learning
