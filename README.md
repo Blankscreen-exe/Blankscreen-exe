@@ -300,7 +300,11 @@ Apart from my job, I also write about my projects and findings on
  
 ## 🌱 I’m currently learning
 
-Learning German Language cuz reasons. Bisher kann ich in einem Restaurant Sachen bestellen, Leute begrüßen und mich vorstellen (So far I can order things in a restaurant, greet people and introduce myself).
+Learning German Language cuz reasons. 
+
+**GERMAN**: Bisher kann ich in einem Restaurant Essen bestellen, Leute begrüßen und mich vorstellen 
+
+**ENGLISH**: So far I can order food in a restaurant, greet people and introduce myself
 
 ## 💡 I’m looking to collaborate on
 
