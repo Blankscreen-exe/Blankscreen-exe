@@ -22,6 +22,10 @@ alt="banner" />
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
 </a>
 
+<a href="https://hammad-ai.vercel.app" target="_blank" title="Hammad AI">
+    <img src="https://img.shields.io/badge/🐱-Portfolio_Site-%230bb1a8.svg?&style=for-the-badge&logo=user&logoColor=white" alt="Discord">
+</a>
+
 <a href="https://hihello.me/p/c9724f05-f569-4cf7-a896-f53366a3f8dc" target="_blank" title="My E-Business Card">
     <img src="https://img.shields.io/badge/&#128199;-Business_Card-%23207d26.svg?&style=for-the-badge&logo=business&logoColor=white" alt="E-business Card">
 </a>
