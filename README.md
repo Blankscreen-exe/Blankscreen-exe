@@ -6,7 +6,7 @@ style="border-radius:10px;"
 alt="banner" />
 
 <div>
-<a href="https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/" target="_blank" title="muhammad-hammad-hassan-cs101">
+<a href="https://www.linkedin.com/in/hammadai/" target="_blank" title="muhammad-hammad-hassan-cs101">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white$fontSize=20" alt="LinkedIn">
 </a>
 
