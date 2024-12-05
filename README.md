@@ -205,7 +205,7 @@ I also teach what I do and for that reason I joined **IEEE Computer Society** an
     </td>
     <td>
         <a href="https://langchain.com/" target="_blank" title="Go To Official Page">
-            <img alt="Langchain" src="https://img.shields.io/badge/&#129436;&#128279;-LangChain-%23e4e4e4.svg?style=for-the-badge&logo=LangChain&logoColor=white">
+            <img alt="Langchain" src="https://img.shields.io/badge/LangChain-%231f403c.svg?style=for-the-badge&logo=LangChain&logoColor=white">
         </a>
     </td>
     <td>
@@ -269,8 +269,8 @@ I also teach what I do and for that reason I joined **IEEE Computer Society** an
         </a>
     </td>
     <td>
-        <a href="https://www.atlassian.com/software/jira" target="_blank" title="Go To Official Page">
-            <img alt="JIRA" src="https://img.shields.io/badge/JIRA-%232f7cff.svg?style=for-the-badge&logo=jira&logoColor=%23fff">
+        <a href="https://www.selenium.dev" target="_blank" title="Go To Official Page">
+            <img alt="JIRA" src="https://img.shields.io/badge/Selenium-%2354b73d.svg?style=for-the-badge&logo=selenium&logoColor=%23fff">
         </a>
     </td>
 </tr>
@@ -316,7 +316,7 @@ Open source projects which are aimed at helping people learn and grow. The kind 
 
 ## 📣 You can ask me about
 
-Anything related to `Software Development`, `Data Science`, `Machine Learning`, `Artificial Intelligence` or `Deep Learning`. I teach what I do, so feel free to ask me anything. You can contact me on [![Linkedin.com](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white$fontSize=20)](https://www.linkedin.com/in/muhammad-hammad-hassan-cs101/)
+Anything related to `Software Development`, `Data Science`, `Machine Learning`, `Artificial Intelligence` or `Deep Learning`. I teach what I do, so feel free to ask me anything. You can contact me on [![Linkedin.com](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white$fontSize=20)](https://www.linkedin.com/in/hammadai/)
 
 ## 📜 About my Medium Blog
 I maintain a blog which contains all kinds of useful information about `Machine Learning`, `Data Science`, `Artificial Intelligence`, `Software Development`, `Projects` and more. Here are my goals for all of this:
