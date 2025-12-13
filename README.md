@@ -46,11 +46,11 @@ alt="banner" />
 
 ## 👋 Who am I?
 
-I am a `Full-Stack Developer` and `Data Scientist with experience building and maintaining real-world applications for business use. My work spans web application development, third-party integrations, payment systems, feature development, and database design.
+I am a `Full-Stack Developer` and `Machine Learning Engineer` with experience building and maintaining real-world applications for business use. My work spans web application development, third-party integrations, payment systems, feature development, database design, devops and everything you could expect from an engineer who has stabilized a chaotic project more than once.
 
 I work primarily on complex, ambiguous problems that sit beyond individual languages or frameworks, often involving system behavior, integrations, and edge cases that require careful analysis rather than straightforward implementation.
 
-I am also involved in technical education through the IEEE Computer Society, where I have conducted workshops for school students, university students, and educators.
+I have also been involved in technical education through the IEEE Computer Society, where I have conducted workshops for school students, university students, and educators. But nowadays, I help young individuals (_on a personal basis_) and train them to become better engineers the corporate world is ever in the need of.
 
 <!-- I'm currently working on a **startup** which is aimed at providing educational consultancy to schools, guidance and counseling to students and overall enhance the education system with respect to *quality of content*, *teaching methodologies* and *learning outcomes*. -->
 
