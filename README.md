@@ -54,6 +54,12 @@ I have also been involved in technical education through the IEEE Computer Socie
 
 <!-- I'm currently working on a **startup** which is aimed at providing educational consultancy to schools, guidance and counseling to students and overall enhance the education system with respect to *quality of content*, *teaching methodologies* and *learning outcomes*. -->
 
+## 🌱 Community & Mentorship
+
+I run a community of learners focused on **practical software development**, **corporate warzone** and the things I **learned with experience**. The community emphasizes hands-on learning, real-world problem solving, and collaborative growth through discussions, projects, and guided sessions.
+
+Some repositories here are created or maintained as learning resources for this community.
+
 ## 🧰 Tech Stack
 
 ### **Languages**
@@ -235,12 +241,6 @@ I have also been involved in technical education through the IEEE Computer Socie
         
 <!-- --------------- Extra badges --------------- -->
 <!--<td><img  alt="React native"  src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>-->
-
-## 🌱 Community & Mentorship
-
-I run a community of learners focused on **practical software development**, **corporate warzone** and the things I **learned with experience**. The community emphasizes hands-on learning, real-world problem solving, and collaborative growth through discussions, projects, and guided sessions.
-
-Some repositories here are created or maintained as learning resources for this community.
 
 ## 🔧 Technical Focus
 
