@@ -7,11 +7,9 @@ alt="banner" />
 
 <div>
 
-<!--
 <a href="https://www.linkedin.com/in/hammadai/" target="_blank" title="muhammad-hammad-hassan-cs101">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white$fontSize=20" alt="LinkedIn">
 </a>
--->
 
 <!--
 <a href="https://medium.com/@hammad.ai" target="_blank" title="@hammad.ai">
@@ -59,6 +57,8 @@ I have also been involved in technical education through the IEEE Computer Socie
 I run a community of learners focused on **practical software development**, **corporate warzone** and the things I **learned with experience**. The community emphasizes hands-on learning, real-world problem solving, and collaborative growth through discussions, projects, and guided sessions.
 
 Some repositories here are created or maintained as learning resources for this community.
+
+If you are interested in joining the community, reach me out on [Discord](https://discordapp.com/users/blankscreen.exe) or [LinkedIn](https://www.linkedin.com/in/hammadai).
 
 ## 🧰 Tech Stack
 
