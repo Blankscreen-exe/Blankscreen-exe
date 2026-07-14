@@ -46,11 +46,11 @@ Role      : Full Stack Engineer
 Focus     : Backend • AI • Systems
 Status    : Building cool things and collaborating with people worldwide.
 
-Learning  : ████████░░ 80%
-Building  : █████████░ 90%
-Blogging  : ██████░░░░ 65%
-Ideas     : ██████████ 100%
-Mentoring : █████░░░░░ 50%
+Learning  : [████████░░] 80%
+Building  : [█████████░] 90%
+Blogging  : [███████░░░] 65%
+Ideas     : [██████████] 100%
+Mentoring : [█████░░░░░] 50%
 ```
 
 I turn ambiguous ideas into production-ready software. Whether it's building internal tools, hobby projects, improving existing products, or rescuing fragile MVPs (yes, many AI-generated ones), I focus on making software reliable, maintainable, and genuinely useful for the people who use it.
