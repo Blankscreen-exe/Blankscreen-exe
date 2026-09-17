@@ -53,16 +53,13 @@ Ideas     : [██████████] 100%
 Mentoring : [█████░░░░░] 50%
 ```
 
-I turn ambiguous ideas into production-ready software. Whether it's building internal tools, hobby projects, improving existing products, or rescuing fragile MVPs (yes, many AI-generated ones), I focus on making software reliable, maintainable, and genuinely useful for the people who use it.
+I turn ambiguous ideas and messy systems into production-ready software.
 
-Turns out I'm the guy people call when things get messy so much so that people don't want to touch the hot pile of spaghetti code. Legacy systems, rushed MVPs, half-finished features, confusing business logic, or integrations that nobody wants to touch—those are usually the problems that end up on my desk.
+I work across new products, internal tools, legacy systems, rushed MVPs, and yes, plenty of AI-generated spaghetti. I care less about simply writing code and more about reducing risk, untangling complexity, and leaving software in a better state than I found it.
 
-I don't see myself as someone who simply writes code. My job is to reduce risk, solve business problems, and leave a project in a better state than I found it.
+When something is fragile, confusing, half-finished, or nobody wants to touch it, it usually ends up on my desk.
 
-Outside client work, I enjoy exploring distributed systems, machine learning, developer tooling, automation, and the occasional rabbit hole that starts with "I wonder how this works..." and ends three days later with a prototype.
-
-I also enjoy teaching. I've run workshops, mentored aspiring developers, and helped engineers bridge the gap between writing code and building software that survives production.
-
+Outside client work, I explore distributed systems, machine learning, developer tooling, and automation. I also enjoy teaching and mentoring developers on the difference between writing code and building software that survives production.
 
 ```
                                                                                    .--.
@@ -83,6 +80,25 @@ Core Areas : AI Automation • RAG • Multi-Agent Systems • Microservices •
 ```
 
 > 📌 I don't fear new technologies or uncharted territory. I fear a stagnant mind.
+
+```
+█████▄ ▄▄▄▄   ▄▄▄    ▄▄ ▄▄▄▄▄  ▄▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄  
+██▄▄█▀ ██▄█▄ ██▀██   ██ ██▄▄  ██▀▀▀   ██  ███▄▄  
+██     ██ ██ ▀███▀ ▄▄█▀ ██▄▄▄ ▀████   ██  ▄▄██▀                                 
+```
+
+My Professional projects live elsewhere. These are just some hobby projects which I'm proud of:
+
+| Project | Description |
+|---------|-------------|
+| [Work Server Setup](https://github.com/Blankscreen-exe/work-server-setup) | My agency setup and collection of self hosted apps | 
+| [Kit](https://github.com/Blankscreen-exe/kit) | A bunch of helper scripts/tools which help me on my day-to-day business | 
+| [Activity Tracker](https://github.com/Blankscreen-exe/activity-tracker-prototype) | An activity tracker I use for myself |
+| [Expentable](https://github.com/Blankscreen-exe/ExpenTable) | Timetable app which is actually useful and is not a headache | 
+| [Prompt Cache](https://github.com/Blankscreen-exe/prompt-cache) | A local prompt building workshop. No AI needs to know what you are cooking. | 
+| [The Duck Council](https://github.com/Blankscreen-exe/The-Duck-Council) | A council of AI Duck Agents which provide guidance to those who need it |
+| [Shell Show](https://github.com/Blankscreen-exe/shell-show) | Prints color images on terminal |
+| [Memento Mori](https://github.com/Blankscreen-exe/MementoMori) | Reminder of our mortality |
 
 ```sh
 ▄█████  ▄▄▄  ▄▄   ▄▄ ▄▄   ▄▄ ▄▄ ▄▄ ▄▄  ▄▄ ▄▄ ▄▄▄▄▄▄ ▄▄ ▄▄ 
