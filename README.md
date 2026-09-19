@@ -99,6 +99,7 @@ My Professional projects live elsewhere. These are just some hobby projects whic
 | [The Duck Council](https://github.com/Blankscreen-exe/The-Duck-Council) | A council of AI Duck Agents which provide guidance to those who need it |
 | [Shell Show](https://github.com/Blankscreen-exe/shell-show) | Prints color images on terminal |
 | [Memento Mori](https://github.com/Blankscreen-exe/MementoMori) | Reminder of our mortality |
+| [Jevil's Dilemma](https://github.com/Blankscreen-exe/jevils-dilemma) | Dilemma Q/A table top game |
 
 ```sh
 ▄█████  ▄▄▄  ▄▄   ▄▄ ▄▄   ▄▄ ▄▄ ▄▄ ▄▄  ▄▄ ▄▄ ▄▄▄▄▄▄ ▄▄ ▄▄ 
