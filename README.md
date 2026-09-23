@@ -93,13 +93,15 @@ My Professional projects live elsewhere. These are just some hobby projects whic
 |---------|-------------|
 | [Work Server Setup](https://github.com/Blankscreen-exe/work-server-setup) | My agency setup and collection of self hosted apps | 
 | [Kit](https://github.com/Blankscreen-exe/kit) | A bunch of helper scripts/tools which help me on my day-to-day business | 
-| [Activity Tracker](https://github.com/Blankscreen-exe/activity-tracker-prototype) | An activity tracker I use for myself |
+| [Content Machine](https://github.com/Blankscreen-exe/content-machine) | My AI-powered content generation tool |
 | [Expentable](https://github.com/Blankscreen-exe/ExpenTable) | Timetable app which is actually useful and is not a headache | 
 | [Prompt Cache](https://github.com/Blankscreen-exe/prompt-cache) | A local prompt building workshop. No AI needs to know what you are cooking. | 
 | [The Duck Council](https://github.com/Blankscreen-exe/The-Duck-Council) | A council of AI Duck Agents which provide guidance to those who need it |
-| [Shell Show](https://github.com/Blankscreen-exe/shell-show) | Prints color images on terminal |
+| [Activity Tracker](https://github.com/Blankscreen-exe/activity-tracker-prototype) | An activity tracker I use for myself |
 | [Memento Mori](https://github.com/Blankscreen-exe/MementoMori) | Reminder of our mortality |
 | [Jevil's Dilemma](https://github.com/Blankscreen-exe/jevils-dilemma) | Dilemma Q/A table top game |
+| [Shell Show](https://github.com/Blankscreen-exe/shell-show) | Prints color images on terminal |
+
 
 ```sh
 ▄█████  ▄▄▄  ▄▄   ▄▄ ▄▄   ▄▄ ▄▄ ▄▄ ▄▄  ▄▄ ▄▄ ▄▄▄▄▄▄ ▄▄ ▄▄ 
