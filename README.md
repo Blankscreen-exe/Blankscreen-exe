@@ -87,7 +87,13 @@ Core Areas : AI Automation • RAG • Multi-Agent Systems • Microservices •
 ██     ██ ██ ▀███▀ ▄▄█▀ ██▄▄▄ ▀████   ██  ▄▄██▀                                 
 ```
 
-My Professional projects live elsewhere. These are just some hobby projects which I'm proud of:
+Looking for my professional high-grade production level projects?
+
+Why would I in my right mind keep them in my repo (as public) and welcome myself into a lawsuit?
+
+My Professional projects live elsewhere. In case you want to see them, go to my [portfolio site](https://hammad-ai.vercel.app). 
+
+These are just some hobby projects which I'm proud of:
 
 | Project | Description |
 |---------|-------------|
