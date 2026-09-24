@@ -97,16 +97,16 @@ These are just some hobby projects which I'm proud of:
 
 | Project | Description |
 |---------|-------------|
-| [Work Server Setup](https://github.com/Blankscreen-exe/work-server-setup) | My agency setup and collection of self hosted apps | 
-| [Kit](https://github.com/Blankscreen-exe/kit) | A bunch of helper scripts/tools which help me on my day-to-day business | 
-| [Content Machine](https://github.com/Blankscreen-exe/content-machine) | My AI-powered content generation tool |
-| [Expentable](https://github.com/Blankscreen-exe/ExpenTable) | Timetable app which is actually useful and is not a headache | 
+| [Work Server Setup](https://github.com/Blankscreen-exe/work-server-setup) | My agency setup and collection of self hosted apps. The very essentials to have. | 
+| [Kit](https://github.com/Blankscreen-exe/kit) | A bunch of helper scripts/tools which help me on my day-to-day business. Saves a huge chunk of time. | 
+| [Content Machine](https://github.com/Blankscreen-exe/content-machine) | My AI-powered content generation tool. Content marketing does not have to be a hassle.  |
+| [Expentable](https://github.com/Blankscreen-exe/ExpenTable) | An unusual day-planner app. I noted down the friction in managing these things and made this. | 
 | [Prompt Cache](https://github.com/Blankscreen-exe/prompt-cache) | A local prompt building workshop. No AI needs to know what you are cooking. | 
-| [The Duck Council](https://github.com/Blankscreen-exe/The-Duck-Council) | A council of AI Duck Agents which provide guidance to those who need it |
-| [Activity Tracker](https://github.com/Blankscreen-exe/activity-tracker-prototype) | An activity tracker I use for myself |
-| [Memento Mori](https://github.com/Blankscreen-exe/MementoMori) | Reminder of our mortality |
+| [The Duck Council](https://github.com/Blankscreen-exe/The-Duck-Council) | A council of AI Duck Agents which provide guidance to those who need it. |
+| [Activity Tracker](https://github.com/Blankscreen-exe/activity-tracker-prototype) | An activity tracker your boss cannot use. Just for your own wellbeing and not for micromanagement. |
+| [Memento Mori](https://github.com/Blankscreen-exe/MementoMori) | Reminder of our mortality. A clock you can't snooze. |
 | [Jevil's Dilemma](https://github.com/Blankscreen-exe/jevils-dilemma) | A pixel-art take on the Dilemma party card game, hosted by Jevil from Deltarune |
-| [Shell Show](https://github.com/Blankscreen-exe/shell-show) | Prints color images on terminal |
+| [Shell Show](https://github.com/Blankscreen-exe/shell-show) | Prints color images on terminal. Proof that terminals can be pretty. |
 
 
 ```sh
