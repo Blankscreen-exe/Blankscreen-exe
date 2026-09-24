@@ -105,7 +105,7 @@ These are just some hobby projects which I'm proud of:
 | [The Duck Council](https://github.com/Blankscreen-exe/The-Duck-Council) | A council of AI Duck Agents which provide guidance to those who need it |
 | [Activity Tracker](https://github.com/Blankscreen-exe/activity-tracker-prototype) | An activity tracker I use for myself |
 | [Memento Mori](https://github.com/Blankscreen-exe/MementoMori) | Reminder of our mortality |
-| [Jevil's Dilemma](https://github.com/Blankscreen-exe/jevils-dilemma) | Dilemma Q/A table top game |
+| [Jevil's Dilemma](https://github.com/Blankscreen-exe/jevils-dilemma) | A pixel-art take on the Dilemma party card game, hosted by Jevil from Deltarune |
 | [Shell Show](https://github.com/Blankscreen-exe/shell-show) | Prints color images on terminal |
 
 
