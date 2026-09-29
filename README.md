@@ -107,7 +107,10 @@ These are just some hobby projects which I'm proud of:
 | [Memento Mori](https://github.com/Blankscreen-exe/MementoMori) | Reminder of our mortality. A clock you can't snooze. |
 | [Jevil's Dilemma](https://github.com/Blankscreen-exe/jevils-dilemma) | A pixel-art take on the Dilemma party card game, hosted by Jevil from Deltarune |
 | [Shell Show](https://github.com/Blankscreen-exe/shell-show) | Prints color images on terminal. Proof that terminals can be pretty. |
+| [Job Application Tracker](https://github.com/Blankscreen-exe/job-application-tracker) | Helps you keep track of job application, and reminds you when an interview is. Because we all apply like a machine gun.  |
 
+
+https://github.com/Blankscreen-exe/job-application-tracker
 
 ```sh
 ▄█████  ▄▄▄  ▄▄   ▄▄ ▄▄   ▄▄ ▄▄ ▄▄ ▄▄  ▄▄ ▄▄ ▄▄▄▄▄▄ ▄▄ ▄▄ 
