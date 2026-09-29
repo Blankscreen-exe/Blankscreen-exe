@@ -110,8 +110,6 @@ These are just some hobby projects which I'm proud of:
 | [Job Application Tracker](https://github.com/Blankscreen-exe/job-application-tracker) | Helps you keep track of job application, and reminds you when an interview is. Because we all apply like a machine gun.  |
 
 
-https://github.com/Blankscreen-exe/job-application-tracker
-
 ```sh
 ▄█████  ▄▄▄  ▄▄   ▄▄ ▄▄   ▄▄ ▄▄ ▄▄ ▄▄  ▄▄ ▄▄ ▄▄▄▄▄▄ ▄▄ ▄▄ 
 ██     ██▀██ ██▀▄▀██ ██▀▄▀██ ██ ██ ███▄██ ██   ██   ▀███▀ 
