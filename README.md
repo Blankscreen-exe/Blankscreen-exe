@@ -106,9 +106,9 @@ These are just some hobby projects which I'm proud of:
 | [Activity Tracker](https://github.com/Blankscreen-exe/activity-tracker-prototype) | An activity tracker your boss cannot use. Just for your own wellbeing and not for micromanagement. |
 | [Memento Mori](https://github.com/Blankscreen-exe/MementoMori) | Reminder of our mortality. A clock you can't snooze. |
 | [Jevil's Dilemma](https://github.com/Blankscreen-exe/jevils-dilemma) | A pixel-art take on the Dilemma party card game, hosted by Jevil from Deltarune |
+| [TabScape](https://github.com/Blankscreen-exe/tabscape) | Custom designed browser homepages. Customize it according to your personality and your weird tastes. |
 | [Shell Show](https://github.com/Blankscreen-exe/shell-show) | Prints color images on terminal. Proof that terminals can be pretty. |
 | [Job Application Tracker](https://github.com/Blankscreen-exe/job-application-tracker) | Helps you keep track of job application, and reminds you when an interview is. Because we all apply like a machine gun.  |
-
 
 ```sh
 ▄█████  ▄▄▄  ▄▄   ▄▄ ▄▄   ▄▄ ▄▄ ▄▄ ▄▄  ▄▄ ▄▄ ▄▄▄▄▄▄ ▄▄ ▄▄ 
