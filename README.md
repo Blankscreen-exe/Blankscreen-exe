@@ -15,8 +15,8 @@ alt="banner" /> -->
 ██║   ██║ ╚═╝ ██║    ██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝
 ╚═╝   ╚═╝     ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝
 ```
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&pause=1000&color=28E138&background=27062C00&width=600&height=65&lines=+++%3E+Full+Stack+Engineer_;+++%3E+Machine+Learning+Engineer_;+++%3E+Mentor_;+++%3E+Automation+Enthusiast_)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=28E138&width=600&height=65&lines=Product+Engineer_;Full+Stack_;Machine+Learning_;Mentor_)](https://git.io/typing-svg)
 
 <div>
 
@@ -110,6 +110,7 @@ These are just some hobby projects which I'm proud of:
 | [Shell Show](https://github.com/Blankscreen-exe/shell-show) | Prints color images on terminal. Proof that terminals can be pretty. |
 | [Job Application Tracker](https://github.com/Blankscreen-exe/job-application-tracker) | Helps you keep track of job application, and reminds you when an interview is. Because we all apply like a machine gun.  |
 | [Attendance Tool](https://github.com/Blankscreen-exe/attendance-tool) | A simple attendance tool since I found most other HRM software as an overkill for my simple needs. |
+| [App Sentinel](https://github.com/Blankscreen-exe/app-sentinel) | An agentic mobile-application security assessment platform. A guy challenged me in an interview and consequently I made this. |
 
 
 ```sh
