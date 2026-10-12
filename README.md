@@ -16,7 +16,7 @@ alt="banner" /> -->
 ╚═╝   ╚═╝     ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=28E138&width=600&height=65&lines=Product+Engineer_;Full+Stack_;Machine+Learning_;Mentor_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=28E138&width=600&height=65&lines=Product+Engineer_;Full+Stack+Octopus_;Machine+Learning+Learner_;Avg.+Automation+Enjoyer_;Supreme+Mentor_)](https://git.io/typing-svg)
 
 <div>
 
