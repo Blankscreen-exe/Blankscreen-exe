@@ -111,6 +111,7 @@ These are just some hobby projects which I'm proud of:
 | [Job Application Tracker](https://github.com/Blankscreen-exe/job-application-tracker) | Helps you keep track of job application, and reminds you when an interview is. Because we all apply like a machine gun.  |
 | [Attendance Tool](https://github.com/Blankscreen-exe/attendance-tool) | A simple attendance tool since I found most other HRM software as an overkill for my simple needs. |
 | [App Sentinel](https://github.com/Blankscreen-exe/app-sentinel) | An agentic mobile-application security assessment platform. A guy challenged me in an interview and consequently I made this. |
+| [Ghost Cue](https://github.com/Blankscreen-exe/ghostcue) | A live-call assistant and a teleprompter for software demos, in a window that screen shares, recordings and screenshots cannot see. |
 
 
 ```sh
