@@ -97,12 +97,12 @@ These are just some hobby projects which I'm proud of:
 
 | Project | Description |
 |---------|-------------|
-| [Work Server Setup](https://github.com/Blankscreen-exe/work-server-setup) | My agency setup and collection of self hosted apps. The very essentials to have. | 
+| [The Duck Council](https://github.com/Blankscreen-exe/The-Duck-Council) | A council of AI Duck Agents which provide guidance to those who need it. |
+| [Prompt Cache](https://github.com/Blankscreen-exe/prompt-cache) | A local prompt building workshop. No AI needs to know what you are cooking. | 
+| [Outreach Assistant](https://github.com/Blankscreen-exe/outreach_assisstant_claude) | This is a folder setup for Claude Code that helps you win conversations with clients and employers. | 
 | [Kit](https://github.com/Blankscreen-exe/kit) | A bunch of helper scripts/tools which help me on my day-to-day business. Saves a huge chunk of time. | 
 | [Content Machine](https://github.com/Blankscreen-exe/content-machine) | My AI-powered content generation tool. Content marketing does not have to be a hassle.  |
 | [Expentable](https://github.com/Blankscreen-exe/ExpenTable) | An unusual day-planner app. I noted down the friction in managing these things and made this. | 
-| [Prompt Cache](https://github.com/Blankscreen-exe/prompt-cache) | A local prompt building workshop. No AI needs to know what you are cooking. | 
-| [The Duck Council](https://github.com/Blankscreen-exe/The-Duck-Council) | A council of AI Duck Agents which provide guidance to those who need it. |
 | [Activity Tracker](https://github.com/Blankscreen-exe/activity-tracker-prototype) | An activity tracker your boss cannot use. Just for your own wellbeing and not for micromanagement. |
 | [Memento Mori](https://github.com/Blankscreen-exe/MementoMori) | Reminder of our mortality. A clock you can't snooze. |
 | [Jevil's Dilemma](https://github.com/Blankscreen-exe/jevils-dilemma) | A pixel-art take on the Dilemma party card game, hosted by Jevil from Deltarune |
@@ -113,6 +113,7 @@ These are just some hobby projects which I'm proud of:
 | [App Sentinel](https://github.com/Blankscreen-exe/app-sentinel) | An agentic mobile-application security assessment platform. A guy challenged me in an interview and consequently I made this. |
 | [Ghost Cue](https://github.com/Blankscreen-exe/ghostcue) | A live-call assistant and a teleprompter for software demos, in a window that screen shares, recordings and screenshots cannot see. |
 | [Triple Triads](https://github.com/Blankscreen-exe/triple-triads) | A tabletop card game from Final Fantasy. You serve the game and play with friends. |
+| [Work Server Setup](https://github.com/Blankscreen-exe/work-server-setup) | My agency setup and collection of self hosted apps. The very essentials to have. | 
 
 
 ```sh
