@@ -113,8 +113,8 @@ These are just some hobby projects which I'm proud of:
 | [App Sentinel](https://github.com/Blankscreen-exe/app-sentinel) | An agentic mobile-application security assessment platform. A guy challenged me in an interview and consequently I made this. |
 | [Ghost Cue](https://github.com/Blankscreen-exe/ghostcue) | A live-call assistant and a teleprompter for software demos, in a window that screen shares, recordings and screenshots cannot see. |
 | [Triple Triads](https://github.com/Blankscreen-exe/triple-triads) | A tabletop card game from Final Fantasy. You serve the game and play with friends. |
-| [Work Server Setup](https://github.com/Blankscreen-exe/work-server-setup) | My agency setup and collection of self hosted apps. The very essentials to have. | 
-
+| [Work Server Setup](https://github.com/Blankscreen-exe/work-server-setup) | My agency setup and collection of self hosted apps. The very essentials to have. |
+| [Chess Training Simulator](https://github.com/Blankscreen-exe/chess-training-simulator) | A desktop chess trainer where Claude coaches you from your own Claude Code. Includes puzzles, openings, game reviews and spaced practice. |
 
 ```sh
 ▄█████  ▄▄▄  ▄▄   ▄▄ ▄▄   ▄▄ ▄▄ ▄▄ ▄▄  ▄▄ ▄▄ ▄▄▄▄▄▄ ▄▄ ▄▄ 
